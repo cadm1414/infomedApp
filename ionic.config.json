@@ -1,0 +1,7 @@
+{
+  "name": "infomed",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
